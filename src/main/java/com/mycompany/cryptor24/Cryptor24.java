@@ -183,7 +183,7 @@ static String path;
         
         
         
-        ImageIcon bgi = new ImageIcon("C:\\Users\\Acer\\Documents\\NetBeansProjects\\Cryptor24\\imgs\\bckground.jpeg");
+        ImageIcon bgi = new ImageIcon("imgs\\bckground.jpeg");
           backgroundImage.setIcon(bgi);
 
            
