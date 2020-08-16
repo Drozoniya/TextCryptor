@@ -269,7 +269,7 @@ static String path;
                 jd.setSize(230, 100);
                 jd.add(pan);
                 jd.setLocationRelativeTo(this);
-                jd.setTitle("👉🏻MESSAGE👈🏻");
+                jd.setTitle("??MESSAGE??");
                 jd.setVisible(true);
                 jd.setAlwaysOnTop(true);
         } catch (IOException ex) {
